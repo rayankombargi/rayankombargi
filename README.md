@@ -21,8 +21,8 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge" >
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" >
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" >
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="Css Badge">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Badge">
 </div>
 
 
