@@ -26,6 +26,11 @@
 </div>
 
 
+<div align="center">
+    <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" >
+    <img src="https://img.shields.io/badge/Django?logo=react&logoColor=white&style=for-the-badge" alt="Django Badge">
+</div>
+
 
 <h2 align="center">💻 Operating Systems</h2>
 
