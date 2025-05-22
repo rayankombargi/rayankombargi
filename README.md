@@ -27,8 +27,8 @@
 
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" >
-    <img src="https://img.shields.io/badge/Django?logo=react&logoColor=white&style=for-the-badge" alt="Django Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" >
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
 </div>
 
 
