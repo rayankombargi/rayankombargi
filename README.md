@@ -2,10 +2,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayankombargi&show_icons=true&theme=radical" alt="Rayan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayankombargi&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
+
 
 ---
 
